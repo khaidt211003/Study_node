@@ -8,21 +8,6 @@
     "watch": "node-sass --watch src/resources/scss/ -o src/public/css/ ",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/khaidt2003/blog_node.git"
-  },
-  "keywords": [
-    "study",
-    "blog",
-    "nodejs"
-  ],
-  "author": "khai nguyen",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/khaidt2003/blog_node/issues"
-  },
-  "homepage": "https://github.com/khaidt2003/blog_node#readme",
   "dependencies": {
     "blog": "file:",
     "express": "^4.20.0",
